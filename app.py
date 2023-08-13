@@ -106,8 +106,8 @@ st.write("🚧", "**Full-Stack Development Intern | METANA**")
 st.write("July 2023 - August 2023")
 st.write(
     """
-- ► Created Python pipelines for data processing and machine learning tasks
-- ► Set up servers and APIs for configuration and deployment purposes
+- ► Developed Python pipelines to streamline data processing and machine learning tasks, contributing to the API's creation and integration.
+- ► Set up servers and APIs for configuration and deployment purposes for successful production
 - ► Built the front-end components using JavaScript and Bubble for web development
 """
 )
@@ -118,7 +118,7 @@ st.write("🚧", "**Front-end Development & UI UX Design Intern | Shoptaki**")
 st.write("September 2022 - July 2023")
 st.write(
     """
-- ► Designed the user interface of Sign Up/In, Dashboard, Settings, Profile, SmartID, and Analytics pages
+- ► Designed the user interface of Dashboard, Settings, Profile, SmartID, and Analytics pages as an MVP
 - ► Developed the Front-end part with React.JS
 """
 )
