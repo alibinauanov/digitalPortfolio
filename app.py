@@ -24,12 +24,9 @@ SOCIAL_MEDIA = {
     "LeetCode": "https://leetcode.com/an3502/"
 }
 PROJECTS = {
-    "🏆 Booking App - Check prices and book the hotel": "github.com/alibinauanov/BookingApp",
-    "🏆 Nike React Native App - Shopping app to but the Nike sneakers": "github.com/alibinauanov/nike-native-app",
-    "🏆 CarHub - Car rental platform where you can see information and car prices": "car-showcase-gamma.vercel.app",
+    "🏆 Movix - Sophisticated movie database": "https://github.com/alibinauanov/movie-app",
+    "🏆 Article Summarizer AI": "https://github.com/alibinauanov/article-summarizer-ai",
     "🏆 Weather App - Get a weather app to view the present weather conditions": "incredible-moonbeam-340408.netlify.app",
-    "🏆 Realtime Chat - Engage in live chat on a local server for real-time conversations": "github.com/alibinauanov/realtime-chat",
-    "Other Projects in GitHub...": "https://github.com/alibinauanov"
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -73,10 +70,9 @@ st.write('\n')
 st.subheader("Technical Skills")
 st.write(
     """
-- 👩‍💻 Programming Languages: Python, Java, JavaScript/Typescript, C, Lua, MongoDB, SQL, Golang
-- 👩‍💻 Frameworks: React, React Native, Vue, Next.js, Node.js, p5.js, Django, MySQL, Firebase, Redux
+- 👩‍💻 Programming Languages: Python, Java, JavaScript/Typescript, C, HTML/CSS, MongoDB, SQL
+- 👩‍💻 Frameworks: React.js, Vue.js, Next.js, Vite.js, Node.js, p5.js, Django, Express.js, MySQL, Firebase, Redux, Pandas, NumPy, Babel, Webpack, NuxtJS, Yarn
 - 👩‍💻 Developer Tools: Git, Figma, Linux, Docker, AWS, Google Cloud Platforms, VS Code, Eclipse
-- 👩‍💻 More: Pandas, NumPy, Babel, Webpack, NuxtJS, Yarn
 """
 )
 
@@ -107,12 +103,12 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Full-Stack Development Intern | METANA**")
-st.write("July 2023 - Present")
+st.write("July 2023 - August 2023")
 st.write(
     """
-- ► Creating Python pipelines for data processing and machine learning tasks
-- ► Setting up servers and APIs for configuration and deployment purposes
-- ► Building the front-end components using JavaScript and Bubble for web development
+- ► Created Python pipelines for data processing and machine learning tasks
+- ► Set up servers and APIs for configuration and deployment purposes
+- ► Built the front-end components using JavaScript and Bubble for web development
 """
 )
 
@@ -122,8 +118,8 @@ st.write("🚧", "**Front-end Development & UI UX Design Intern | Shoptaki**")
 st.write("September 2022 - July 2023")
 st.write(
     """
-- ► Developed the front-end using React.js for a platform integrating decentralized identity management, quantum encryption, predictive analytics, and automation system pages
-- ► Developed the user interface and user experience design of the platform, where decentralized identity management, quantum encryption, predictive analytics, and automation system pages are developed
+- ► Designed the user interface of Sign Up/In, Dashboard, Settings, Profile, SmartID, and Analytics pages
+- ► Developed the Front-end part with React.JS
 """
 )
 
@@ -133,7 +129,7 @@ st.write("🚧", "**Full-Stack Development Summer Bootcamp | nFactorial Incubato
 st.write("June 2022 - August 2022")
 st.write(
     """
-- ► learned how to build the website with React.js and write the Back-end in JS, Node.js, Lifecycle, Client-server, HTTP, API, Local Storage, MongoDB, and Express.js.
+- ► Developed the website with React.js and write the Back-end in JS, Node.js, Lifecycle, Client-server, HTTP, API, Local Storage, MongoDB, and Express.js.
 - ► One of the 180 participants selected from 4000+ applicants.
 """
 )
@@ -144,9 +140,8 @@ st.write("🚧", "**Business Development Intern | Grantly.Academy**")
 st.write("February 2022 - April 2022")
 st.write(
     """
-- ► Led the amoCRM servers for managers.
-- ► Fixed the server crash problem and database errors. The efficiency of the sales office has increased.
-- ► Led students that intended to apply to American Colleges for 3 months. Gave feedback for their essays.
+- ► Spearheaded server management for amoCRM (Enterprise-focused web-hosted CRM for lead and sales management, from initial contact to completed sales)
+- ► Resolved critical server crash issues and database errors, resulting in enhanced sales office efficiency of 20%
 """
 )
 
