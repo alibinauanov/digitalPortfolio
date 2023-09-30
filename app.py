@@ -70,7 +70,7 @@ st.write('\n')
 st.subheader("Technical Skills")
 st.write(
     """
-- 👩‍💻 Programming Languages: Python, Java, JavaScript/Typescript, C, HTML/CSS, MongoDB, SQL
+- 👩‍💻 Programming Languages: Python, Java, JavaScript, Typescript, C
 - 👩‍💻 Frameworks: React.js, Vue.js, Next.js, Vite.js, Node.js, p5.js, Django, Express.js, MySQL, Firebase, Redux, Pandas, NumPy, Babel, Webpack, NuxtJS, Yarn
 - 👩‍💻 Developer Tools: Git, Figma, Linux, Docker, AWS, Google Cloud Platforms, VS Code, Eclipse
 """
