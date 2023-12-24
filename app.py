@@ -20,8 +20,8 @@ EMAIL = "alibi.nauanov@nyu.edu"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/alibinauanov/",
     "GitHub": "https://github.com/alibinauanov",
-    "Instagram": "https://www.instagram.com/alibinauan/",
-    "LeetCode": "https://leetcode.com/an3502/"
+    "Instagram": "https://www.instagram.com/alibuccci/",
+    "LeetCode": "https://leetcode.com/alibinauanov/"
 }
 PROJECTS = {
     "🏆 Movix - Sophisticated movie database": "https://github.com/alibinauanov/movie-app",
@@ -106,8 +106,8 @@ st.write("🚧", "**Full-Stack Development Intern | METANA**")
 st.write("July 2023 - August 2023")
 st.write(
     """
-- ► Developed Python pipelines to streamline data processing and machine learning tasks, contributing to the API's creation and integration.
-- ► Set up servers and APIs for configuration and deployment purposes for successful production
+- ► Optimized data processing and machine learning tasks with Python pipelines using PyTorch, achieving a 30% reduction in processing time and enhancing model training efficiency
+- ► Led resolution of critical server crashes and database errors, boosting system stability and increasing API reliability by 25%
 - ► Built the front-end components using JavaScript and Bubble for web development
 """
 )
@@ -124,17 +124,6 @@ st.write(
 )
 
 # --- JOB 3
-st.write('\n')
-st.write("🚧", "**Full-Stack Development Summer Bootcamp | nFactorial Incubator**")
-st.write("June 2022 - August 2022")
-st.write(
-    """
-- ► Developed the website with React.js and write the Back-end in JS, Node.js, Lifecycle, Client-server, HTTP, API, Local Storage, MongoDB, and Express.js.
-- ► One of the 180 participants selected from 4000+ applicants.
-"""
-)
-
-# --- JOB 4
 st.write('\n')
 st.write("🚧", "**Business Development Intern | Grantly.Academy**")
 st.write("February 2022 - April 2022")
